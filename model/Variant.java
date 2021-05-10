@@ -1,5 +1,4 @@
 package model;
-
 /**
  * represents a variant with...
  *
